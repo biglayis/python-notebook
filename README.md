@@ -11,5 +11,5 @@
     * [07.列表](python-essentials/07.列表.ipynb)
     * [08.元组](python-essentials/08.元组.ipynb)
     * [09.字典.ipynb](python-essentials/09.字典.ipynb)
-    * [10.字符串.ipynb](python-essentials/10.字符串.ipynb.ipynb)
+    * [10.字符串.ipynb](python-essentials/10.字符串.ipynb)
     * [11.字符串-索引和切片.ipynb](python-essentials/11.字符串-索引和切片.ipynb)
