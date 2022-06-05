@@ -13,3 +13,6 @@
     * [09.字典.ipynb](python-essentials/09.字典.ipynb)
     * [10.字符串.ipynb](python-essentials/10.字符串.ipynb)
     * [11.字符串-索引和切片.ipynb](python-essentials/11.字符串-索引和切片.ipynb)
+    * [12.集合.ipynb](python-essentials/12.集合.ipynb)
+    * [13.不可变集合.ipynb](python-essentials/13.不可变集合.ipynb)
+    * [14.列表推导式.ipynb](python-essentials/14.列表推导式.ipynb)
