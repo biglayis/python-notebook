@@ -16,3 +16,4 @@
     * [12.集合.ipynb](python-essentials/12.集合.ipynb)
     * [13.不可变集合.ipynb](python-essentials/13.不可变集合.ipynb)
     * [14.列表推导式.ipynb](python-essentials/14.列表推导式.ipynb)
+    * [15.函数.ipynb](python-essentials/15.函数.ipynb)
