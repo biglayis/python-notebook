@@ -18,3 +18,4 @@
     * [14.列表推导式.ipynb](python-essentials/14.列表推导式.ipynb)
     * [15.函数.ipynb](python-essentials/15.函数.ipynb)
     * [16.模块和包.ipynb](python-essentials/16.模块和包.ipynb)
+    * [17.异常.ipynb](python-essentials/17.异常.ipynb)
