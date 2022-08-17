@@ -19,3 +19,8 @@
     * [15.函数.ipynb](python-essentials/15.函数.ipynb)
     * [16.模块和包.ipynb](python-essentials/16.模块和包.ipynb)
     * [17.异常.ipynb](python-essentials/17.异常.ipynb)
+* [python面向对象](python-object-oriented)  
+    * [01.类与对象](python-object-oriented/01.类与对象.ipynb)  
+    * [02.属性（可见性和装饰器）](python-object-oriented/02.属性（可见性和装饰器）.ipynb)
+    * [03.静态方法和类方法](python-object-oriented/03.静态方法和类方法.ipynb) 
+    * [04.继承](python-object-oriented/04.继承.ipynb) 
