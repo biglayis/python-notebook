@@ -19,6 +19,7 @@
     * [15.函数](python-essentials/15.函数.ipynb)
     * [16.模块和包](python-essentials/16.模块和包.ipynb)
     * [17.异常](python-essentials/17.异常.ipynb)
+    * [18.文件读写](python-essentials/18.文件读写.ipynb)
 * [python面向对象](python-object-oriented)  
     * [01.类与对象](python-object-oriented/01.类与对象.ipynb)  
     * [02.属性（可见性和装饰器）](python-object-oriented/02.属性（可见性和装饰器）.ipynb)
@@ -26,3 +27,5 @@
     * [04.继承](python-object-oriented/04.继承.ipynb) 
     * [05.多态](python-object-oriented/05.多态.ipynb) 
     * [06.类属性](python-object-oriented/06.类属性.ipynb)
+* [python进阶](python-advanced)  
+    * [01.正则表达式](python-advanced/01.正则表达式.ipynb) 
