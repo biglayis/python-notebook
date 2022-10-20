@@ -29,3 +29,6 @@
     * [06.类属性](python-object-oriented/06.类属性.ipynb)
 * [python进阶](python-advanced)  
     * [01.正则表达式](python-advanced/01.正则表达式.ipynb) 
+* [python数据分析](python-data-analysis)  
+    * [01.数据分析概述](python-data-analysis/01.数据分析概述.ipynb) 
+    * [02.Numpy](python-data-analysis/02.Numpy.ipynb) 
