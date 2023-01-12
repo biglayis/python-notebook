@@ -30,6 +30,7 @@
 * [python进阶](python-advanced)  
     * [01.正则表达式](python-advanced/01.正则表达式.ipynb) 
     * [02.匿名函数lambda](python-advanced/02.匿名函数lambda.ipynb) 
+    * [03.python标准库](python-advanced/03.python标准库.ipynb) 
 * [python数据分析](python-data-analysis)  
     * [01.数据分析概述](python-data-analysis/01.数据分析概述.ipynb) 
     * [02.Numpy](python-data-analysis/02.Numpy.ipynb) 
@@ -37,3 +38,4 @@
     * [04.Pandas-Dataframe](python-data-analysis/04.Pandas-Dataframe.ipynb) 
     * [05.matplotlib](python-data-analysis/05.matplotlib.ipynb) 
     * [06.Seaborn](python-data-analysis/06.Seaborn.ipynb) 
+    * [10.sklearn](python-data-analysis/10.sklearn.ipynb) 
