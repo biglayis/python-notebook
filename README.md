@@ -38,4 +38,5 @@
     * [04.Pandas-Dataframe](python-data-analysis/04.Pandas-Dataframe.ipynb) 
     * [05.matplotlib](python-data-analysis/05.matplotlib.ipynb) 
     * [06.Seaborn](python-data-analysis/06.Seaborn.ipynb) 
+    * [07.pyecharts](python-data-analysis/07.pyecharts.ipynb) 
     * [10.sklearn](python-data-analysis/10.sklearn.ipynb) 
